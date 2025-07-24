@@ -1,0 +1,14 @@
+{
+  "name": "LUXORA",
+  "symbol": "LUX",
+  "description": "اولین توکن ایرانی روی شبکه TON با هدف سرمایه‌گذاری و کمیابی",
+  "image": "https://be989e.portal.ir/uploads/luxora-logo.png",
+  "address": "EQBw9E-t1fCdZSqqRGHYUVkH_GC4vfLNhxjD6GKJ35IvXFgR",
+  "website": "http://be989e.portal.ir",
+  "telegram": "https://t.me/ertbat7",
+  "bot": "https://t.me/Mohamadserverbot",
+  "network": "TON",
+  "creator": "Mohamad",
+  "supply": "500000000",
+  "decimals": 9
+}
